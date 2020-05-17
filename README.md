@@ -34,6 +34,16 @@
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/) 
 
+## Get the app
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Deployment 📦 
+Once you have done with your setup. You need to put your website online!
+I highly recommend to use [Netlify](https://www.netlify.com/) to achieve this on the EASIEST WAY
+
 ## Contributors ✨
 <table>
   <tr>
