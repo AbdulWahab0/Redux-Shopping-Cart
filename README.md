@@ -8,7 +8,7 @@
 <p align="center"> 
   <kbd>
   	<a href="https://ashutosh1919.github.io" target="_blank">
-		<img src="images/fullCart.png"></img>
+		<img src="fullCart.png"></img>
 	</a>
   </kbd>
 </p>
