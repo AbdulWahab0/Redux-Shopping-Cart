@@ -37,7 +37,7 @@
 ## Contributors ✨
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AbdulWahab0"><img src="https://avatars0.githubusercontent.com/u/40568756?s=460&u=fc49159aa0fb336ebeaeeb1ff6079ab8bd4709c4&v=4 width="100px;" alt=""/><br /><sub><b>Abdul Wahab</b></sub></a><br /><a href="https://github.com/AbdulWahab0" title="Code">💻</a> <a href="https://github.com/AbdulWahab0" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/AbdulWahab0"><br /><sub><b>Abdul Wahab</b></sub></a><br /><a href="https://github.com/AbdulWahab0" title="Code">💻</a> <a href="https://github.com/AbdulWahab0" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a></td>
   </tr>
 </table>
  
