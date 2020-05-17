@@ -1,9 +1,9 @@
 # Redux Shopping Cart ⚡️  
 
-[![HitCount](http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg)](http://hits.dwyl.com/ashutosh1919/masterPortfolio)
+[![HitCount](http://hits.dwyl.com/Abdulwahab0/https://githubcom/AbdulWahab0/Redux-Shopping-Cart.svg)](http://hits.dwyl.com/Abdulwahab0/https://githubcom/AbdulWahab0/Redux-Shopping-Cart)
 
 
-## A clean, beautiful and responsive Redux Shopping Cartfor React Developers!
+## A clean, beautiful and responsive Redux Shopping Cart for React Developers!
 
 <p align="center"> 
   <kbd>
