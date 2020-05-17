@@ -7,16 +7,30 @@
 
 <p align="center"> 
   <kbd>
-  	<a href="https://ashutosh1919.github.io" target="_blank">
+  	<a href="https://admiring-jennings-4c377a.netlify.app/" target="_blank">
 		<img src="fullCart.png"></img>
 	</a>
   </kbd>
 </p>
 
+## Empty Cart 
+<p align="center"> 
+  <kbd>
+  	<a href="https://admiring-jennings-4c377a.netlify.app/" target="_blank">
+		<img src="emptyCart.png"></img>
+	</a>
+  </kbd>
+</p>
 
 ## Sections 
 ✔️ Increase the Number of Porduct\
 ✔️ Descrease the Number of Porduct \
 ✔️ Remove the Products from Cart\
 ✔️ Show Total Products in Cart\
-✔️ Clear whole Bucket List 🏆\
+✔️ Clear whole Bucket List \
+
+## Technologies used 🛠️
+
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/) 
+ 
