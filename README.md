@@ -1,3 +1,19 @@
+# Redux Shopping Cart ⚡️  
+
+[![HitCount](http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg)](http://hits.dwyl.com/ashutosh1919/masterPortfolio)
+
+
+## A clean, beautiful and responsive Redux Shopping Cartfor React Developers!
+
+<p align="center"> 
+  <kbd>
+  	<a href="https://ashutosh1919.github.io" target="_blank">
+		<img src="images/fullCart.png"></img>
+	</a>
+  </kbd>
+</p>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
