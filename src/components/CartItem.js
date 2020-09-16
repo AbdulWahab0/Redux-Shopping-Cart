@@ -3,14 +3,15 @@ import { connect } from "react-redux";
 import { removeItem, increaseItem, decreaseItem, toggleItem } from "../actions";
 
 const CartItem = ({
+  increase,
+  toggle,
+  decrease,
   img,
   title,
   price,
   amount,
   remove,
-  increase,
-  toggle,
-  decrease,
+  
 }) => {
   return (
     <div className="cart-item">
