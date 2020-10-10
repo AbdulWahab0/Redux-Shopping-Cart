@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import { removeItem, increaseItem, decreaseItem, toggleItem } from "../actions";
 
 const CartItem = ({
-  increase,
+  
   toggle,
   decrease,
   img,
@@ -11,6 +11,7 @@ const CartItem = ({
   price,
   amount,
   remove,
+  increase,
   
 }) => {
   return (
